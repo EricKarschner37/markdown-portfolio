@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Skiing
+* Music
+  * Saxophone
+  * Bassoon
+* Coding
+  * Java
+  * Kotlin
